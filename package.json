@@ -1,0 +1,11 @@
+{
+  "name": "anubisv1",
+  "version": "0.0.1",
+  "description": "Anubis V1 Başlangıç",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Merdin",
+  "license": "ISC"
+}
